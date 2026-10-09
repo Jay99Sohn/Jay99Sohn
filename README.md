@@ -36,6 +36,11 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+### 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-jhson99@chauniv.ac.kr-EA4335?style=flat-square)](mailto:jhson99@chauniv.ac.kr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jungho_Sohn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohn824905335)
+
 ---
 
 <p align="center"><i>A result is only interesting after I've tried to break it.</i></p>
