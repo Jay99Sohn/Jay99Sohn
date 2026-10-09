@@ -19,8 +19,8 @@
 | [**P-gp inhibitor prediction**](https://github.com/Jay99Sohn/pgp-literature-mining-inhibitor-prediction) | Literature-mined dataset of 522 compounds + ML/GNN benchmark | Random Forest (ROC-AUC 0.80) outperformed GCN, GAT, and GINE on identical folds |
 | [**Polar AMP discovery**](https://github.com/Jay99Sohn/polar-amp-discovery) | Antimicrobial peptide screening of the Arctic permafrost virome, with a 6-part reality check | Showed the "discoveries" were classifier noise · *2026 Polar Big Data & AI Competition* |
 | [**Exosomal miRNA × CRC**](https://github.com/Jay99Sohn/GEOexosome) | Colorectal cancer classification from serum exosomal miRNA (GSE39833) | Found that sample run order is perfectly confounded with the label · 🏆 *1st prize, CHA University research poster (2025)* |
-| [**Caffeine–drug checker**](https://github.com/Jay99Sohn/caffeine-checker) | Streamlit app for caffeine–drug interaction screening, with PDF reports | Patient-facing pharmacy tool |
-| [**Supplement chatbot**](https://github.com/Jay99Sohn/nutrition-supplement-chatbot) | 24/7 web consultation desk for dietary supplements | Pharmacist-designed Q&A flow |
+| [**Caffeine–drug checker**](https://github.com/Jay99Sohn/caffeine-checker) | Streamlit app that checks caffeine intake against current medications, with a PDF report | Early project (2025), my first code |
+| [**Supplement chatbot**](https://github.com/Jay99Sohn/nutrition-supplement-chatbot) | Symptom-based supplement suggestions; a first step toward a counseling app | Discontinued prototype (2026), stopped over health-information legal risk |
 
 ### 🛠 Tools
 
